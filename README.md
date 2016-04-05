@@ -1,2 +1,6 @@
 # Hello-World
-Starting up a github
+
+
+Hello everyone!
+
+I'm currently a student, learning and trying as many things as possible.
